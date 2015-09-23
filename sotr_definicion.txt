@@ -1,0 +1,7 @@
+Software que realiza tareas de administración de recursos y procesos, pero 
+con una relación muy fuerte con su aplicación, ya que debe ser capaz de 
+responder a intervalos prefijados o ante eventos externos de una manera
+determinista, y esto sin importar el impacto que pueda derivar sobre otras
+tareas o procesos. En un entorno en tiempo real, las tareas con mayor 
+prioridad deben recibir los recursos del sistema que necesiten y cuando
+lo necesiten, a pesar de los efectos que pueda ocasionar a otras tareas.
